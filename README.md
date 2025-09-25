@@ -37,15 +37,7 @@ We apply **exploratory data analysis, feature engineering, and machine learning 
 ---
 
 ## 📂 Repository Contents  
-- `/paper` → PDF of the full report  
-- `/notebooks` → Jupyter notebooks for EDA, models, clustering  
-- `/data` → Instructions to access InsideAirbnb dataset  
-- `/src` → Python scripts (if applicable)  
-
----
-
-## 📄 Citation  
-
-If you use this work, please cite:  
+- `/Project_Report` → PDF of the full report  
+- `/Project ipynb code` → Jupyter notebooks for EDA, models, clustering  
 
 
