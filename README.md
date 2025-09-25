@@ -1,7 +1,7 @@
 # 🏠 An Exploration of Airbnb’s New York City Listings  
 *Through the Use of Data Mining Tools*  
 
-**Authors**: John Cognetti, Aayushi Jayaswal, Phanindra Palaparthi  
+**Authors**: Phanindra Palaparthi, John Cognetti, Aayushi Jayaswal  
 **Institution**: George Mason University  
 
 📄 Full Paper: [project-report.pdf](Project_Report/Project_Report.pdf)  
