@@ -4,7 +4,7 @@
 **Authors**: John Cognetti, Aayushi Jayaswal, Phanindra Palaparthi  
 **Institution**: George Mason University  
 
-📄 Full Paper: [project-report.pdf](Project_Report.pdf)  
+📄 Full Paper: [project-report.pdf](Project_Report/Project_Report.pdf)  
 
 ---
 
